@@ -29,7 +29,6 @@ Expect the full episode soon.....
 
 #universitymanagement #tech #softwaredevelopment #tecmis #java #javafx #oop #managementinformationsystem #mysql #github #teamwork #software
 
-![admin](https://user-images.githubusercontent.com/104630433/227644356-df043f25-bbd4-4e9b-aafc-897a8cd187b8.png)
 
 
 
